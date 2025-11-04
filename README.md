@@ -19,6 +19,8 @@ while(breathing) { everything->build()->optimize()->ship()->repeat(); }
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%207%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
