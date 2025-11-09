@@ -10,18 +10,12 @@
                                            
 ```
 
-**systems · performance · infrastructure**
-
-```cpp
-while(breathing) { everything->build()->optimize()->ship()->repeat(); }
-```
-
 </div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%208%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Summary:** 
 
 ```text
 💬 Programming Languages: 
