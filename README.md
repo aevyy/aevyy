@@ -13,8 +13,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%208%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
