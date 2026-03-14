@@ -19,8 +19,7 @@
 
 ```text
 💬 Programming Languages: 
-conf                     14 mins             ████████████████████████░   94.93 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+No Activity Tracked This Week
 ```
 
 
