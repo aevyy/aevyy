@@ -19,11 +19,7 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     24 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-conf                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-C++                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+No Activity Tracked This Week
 ```
 
 
