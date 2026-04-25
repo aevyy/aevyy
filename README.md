@@ -19,11 +19,7 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 53 mins        ████████████████░░░░░░░░░   62.33 % 
-conf                     56 mins             ████████░░░░░░░░░░░░░░░░░   31.12 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 ```
 
 
