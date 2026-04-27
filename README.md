@@ -19,7 +19,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     15 mins             █████████████████████████   100.00 % 
 ```
 
 
