@@ -13,17 +13,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-conf                     13 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
-C                        10 mins             █████████░░░░░░░░░░░░░░░░   36.51 % 
-YAML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+conf                     13 mins             ██████████░░░░░░░░░░░░░░░   41.73 % 
+C                        10 mins             ████████░░░░░░░░░░░░░░░░░   32.67 % 
+YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
