@@ -19,8 +19,7 @@
 
 ```text
 💬 Programming Languages: 
-Other                    12 mins             ██████████████████░░░░░░░   70.72 % 
-JavaScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+No Activity Tracked This Week
 ```
 
 
