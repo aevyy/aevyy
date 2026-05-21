@@ -19,7 +19,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+conf                     43 mins             ███████████░░░░░░░░░░░░░░   44.47 % 
+YAML                     37 mins             ██████████░░░░░░░░░░░░░░░   38.76 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 
