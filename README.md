@@ -17,7 +17,9 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+conf                     14 mins             ███████████████░░░░░░░░░░   58.19 % 
+Python                   10 mins             ██████████░░░░░░░░░░░░░░░   41.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 
