@@ -13,17 +13,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
-Markdown                 3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
-Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-TeX                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Markdown                 3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+Python                   3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+Bash                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TeX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 
