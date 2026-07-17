@@ -19,8 +19,7 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              ████████████████████░░░░░   80.85 % 
-Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+No Activity Tracked This Week
 ```
 
 
